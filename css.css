@@ -1,0 +1,79 @@
+body {
+	background-color: #58A0F6;
+	background: url(1.jpg);
+}
+#global {
+	width: 1000px; height: 900px;
+	margin: 0 auto 0 auto;
+	background-color: #0E45F1;
+	text-align: center;
+}
+#cabecera {
+	width: 1000px; height: 370px;
+	margin: 0 auto 0 auto;
+	background-color: #5A58F6;
+	text-align: center;
+}
+#navegacion {
+	width: 1000px; height: 80px;
+	margin: 10 auto 10 auto;
+	background-color: #A09D9D;
+	text-align: center;
+
+}
+#principal {
+	width: 750px;
+	margin: 100 auto 10 auto;
+	background-color: #20C3E3;
+	float: left;
+	text-align: center;
+}
+.anuncios1 {
+	width: 250px;
+	margin:  auto 0 auto;
+	background-color: #5A58F6;
+	float: right;
+	height: 1162px;
+	text-align: center;
+}
+#pie {
+	width: 1000px;
+	margin: 0 auto 0 auto;
+	background-color: #252525;
+	float: left;
+	text-align: center;
+}
+nav ul{
+	background-color: ;
+	width: 90%;
+	list-style-type: none;
+	text-align: center;
+}
+nav li{
+	display: inline-flex;
+}
+nav a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	width: 150;
+}
+nav li:hover {
+	background-color: black;
+}
+
+footer{
+	width: 90%;
+	height: 190px;
+	background-color: ;
+	color: white;
+	margin-top: 5px;
+}
+footer p{
+	text-align: center;
+	padding: -5px;
+}
+
+iframe{
+	width: 750px; height: 400px;
+}
